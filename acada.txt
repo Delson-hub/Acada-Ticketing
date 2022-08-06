@@ -1,0 +1,15 @@
+Linux
+Bash
+Maven
+Sonar
+Docker
+Git
+Tomcat
+Dollars
+Nexus
+Kubernetes
+Jenkins
+Ansible
+Jira
+Terraform
+
