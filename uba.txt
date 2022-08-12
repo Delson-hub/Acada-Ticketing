@@ -4,3 +4,4 @@ WE HOPE YOU HAVE A GREAT LEARNING EXPERIENCE:
 Showing the head changes
 Adding a new lin of text from bugfix master
 It's just a bright and sunny day
+We are adding this new line from the GUI
