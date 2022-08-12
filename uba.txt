@@ -3,3 +3,4 @@ WE ARE SPECIALIZED IN DELIVERING DEVOPS TRAINING
 WE HOPE YOU HAVE A GREAT LEARNING EXPERIENCE:
 Showing the head changes
 Adding a new lin of text from bugfix master
+It's just a bright and sunny day
